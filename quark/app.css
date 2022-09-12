@@ -1,0 +1,67 @@
+menu li:hover {
+  background-color: rgba(126, 184, 223, 0.3);
+}
+
+html {
+  overflow: hidden;
+  background: transparent;
+}
+
+body {
+  margin: 0;
+}
+
+div#container {
+  vertical-align: middle;
+  height: *;
+  width: *;
+  background-position: 50% 50%;
+}
+
+div#sub-container {
+  width: min-content;
+  margin: auto;
+}
+
+input {
+  text-align: center;
+  font-size: 30pt;
+  padding: none;
+  margin: none;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.01);
+  background-position: 50% 50% !important;
+  text-shadow: -1dip -1dip 0 white, 1dip -1dip 0 white, -1dip 1dip 0 white,
+    1dip 1dip 0 white;
+  width: min-content;
+  min-width: 30pt;
+  font-rendering-mode: sub-pixel;
+  context-menu: selector(menu#for-edit);
+}
+
+input:hover,
+input:empty {
+   background-color: highlight;
+}
+
+menu.context li[name='edit:undo'] {
+  content: 'Undo';
+}
+menu.context li[name='edit:redo'] {
+  content: 'Redo';
+}
+menu.context li[name='edit:cut'] {
+  content: 'Cut';
+}
+menu.context li[name='edit:copy'] {
+  content: 'Copy';
+}
+menu.context li[name='edit:paste'] {
+  content: 'Paste';
+}
+menu.context li[name='edit:selectall'] {
+  content: 'Select All';
+}
+menu.context li[name='edit:changebackground'] {
+  content: 'Change Background';
+}
