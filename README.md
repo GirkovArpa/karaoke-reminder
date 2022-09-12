@@ -32,6 +32,6 @@ Made for [this r/SomebodyMakeThis post](https://old.reddit.com/r/SomebodyMakeThi
 <h1 align="center">
   <img src="screenshot.gif" alt="screenshot" /></a><br/><br/>
 
-  <a href="https://girkovarpa.itch.io/unofficial-sciter-template#download">
+  <a href="https://girkovarpa.itch.io/karaoke-reminder#download">
   👉 Download for Windows 👈</a>
 </h1>
