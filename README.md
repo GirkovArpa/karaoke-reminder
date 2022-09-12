@@ -31,6 +31,7 @@ Made for [this r/SomebodyMakeThis post](https://old.reddit.com/r/SomebodyMakeThi
 
 <h1 align="center">
   <img src="screenshot.gif" alt="screenshot" /></a><br/><br/>
+  <img src="screenshot2.gif" alt="screenshot2" /></a><br/><br/>
 
   <a href="https://girkovarpa.itch.io/karaoke-reminder#download">
   👉 Download for Windows 👈</a>
